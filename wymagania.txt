@@ -1,0 +1,10 @@
+Propozycja oceny :4
+-Projekt wykonany z użyciem SpringBoot + Maven + git.
+-Kod dostępny na githubie, dokumentacja w pliku README.md
+-Projekt zawiera 12 endpointów, które wykorzystują metody GET/POST/PUT/DELETE.
+-progrma wykorzystuje 5 tabel
+-Projekt wykorzystuje DI oraz IoC.
+-Dokumentacja z diagramem przypadków użycia w pliku README.md
+
+Dodatkowo:
+-Rozbudowany front-end do interakcji z użytkownikiem
