@@ -57,7 +57,7 @@ Wymagane uprawnienia administratora: TAK
 
 - wyświetlanie galerii GET http://localhost:8080/admin/lista_galerii
  ```
-Wymagana autoryzacja: NIE
+Wymagana autoryzacja: TAK
 Wymagane uprawnienia administratora: NIE
 ```
 
@@ -69,7 +69,6 @@ Wymagane uprawnienia administratora: TAK
 
 - wyświetlanie jednego zdjęcia GET http://localhost:8080/user/photo
  ```
-Parametry URL: id=[integer] - id zdjecia
 Wymagana autoryzacja: NIE
 Wymagane uprawnienia administratora: NIE
 ```
